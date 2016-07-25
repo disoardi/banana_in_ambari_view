@@ -10,7 +10,7 @@ function (_) {
      * @type {Object}
      */
     var defaults = {
-      solr: "http://"+window.location.hostname+":8886/solr/",
+      solr: "http://"+window.location.hostname+":8983/solr/",
       solr_core: "logstash_logs",
       banana_index  : 'banana-int',
       USE_ADMIN_LUKE: true,

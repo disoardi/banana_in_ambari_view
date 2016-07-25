@@ -29,7 +29,7 @@ module.exports = function(grunt) {
         dest: 'public/',
         options: {
           process: function(content, srcpath) {
-            return content.replace(/http:\/\/localhost:8886\/solr\//g, "\/solr\/");
+            return content.replace(/http:\/\/localhost:8983\/solr\//g, "\/solr\/");
           },
         },
       },

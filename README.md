@@ -16,4 +16,3 @@ To run Banana follow this steps:
 ```
 /opt/banana_in_ambari_view/install.sh
 ```
-```

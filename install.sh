@@ -1,3 +1,10 @@
+###############################
+#                             #
+# Create by abacus for eCube  #
+#                             #
+###############################
+
+
 #!/bin/bash
 
 echo "Add repo for maven"

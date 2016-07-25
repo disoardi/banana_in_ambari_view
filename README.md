@@ -9,10 +9,11 @@ The goal is to create a rich and flexible UI, enabling users to rapidly develop 
 To run Banana follow this steps:
 
 * Clone this repo
----
+```
  git clone https://github.com/disoardi/banana_in_ambari_view /opt/
 ```
 * Run the install script
 ```
 /opt/banana_in_ambari_view/install.sh
+```
 ```

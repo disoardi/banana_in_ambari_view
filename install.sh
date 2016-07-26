@@ -22,7 +22,7 @@ cd iframe-view
 echo "Config view"
 sed -i "s/iFrame View/Banana dashboard/g" /opt/iframe-view/src/main/resources/view.xml
 sed -i "s/IFRAME_VIEW/BANANA_DASHBOARD/g" /opt/iframe-view/src/main/resources/view.xml
-sed -i "s/6080/3000g" /opt/iframe-view/src/main/resources/index.html
+sed -i "s/6080/3000/g" /opt/iframe-view/src/main/resources/index.html
 sed -i "s/iframe-view/banana_dashboard-view/g" /opt/iframe-view/pom.xml
 sed -i "s/Ambari iFrame View/Banana dashboard view/g" /opt/iframe-view/pom.xml
 

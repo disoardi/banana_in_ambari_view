@@ -359,7 +359,7 @@
   },
   "solr": {
     "server": "/solr/",
-    "core_name": "my_collection",
+    "core_name": "myCollection",
     "core_list": [],
     "global_params": ""
   }

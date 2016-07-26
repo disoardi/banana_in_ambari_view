@@ -4,7 +4,6 @@ The Banana project was forked from Kibana, and works with all kinds of time seri
 
 The goal is to create a rich and flexible UI, enabling users to rapidly develop end-to-end applications that leverage the power of Apache Solr. Data can be ingested into Solr through a variety of ways, including LogStash, Flume and other connectors.
 
-[the original one](https://github.com/LucidWorks/banana)
 
 To run Banana follow this steps:
 

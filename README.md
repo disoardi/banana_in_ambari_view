@@ -9,7 +9,7 @@ To run Banana follow this steps:
 
 * Clone this repo
 ```
- git clone https://github.com/disoardi/banana_in_ambari_view /opt/
+git clone https://github.com/disoardi/banana_in_ambari_view.git /opt/banana_in_ambari_view
 ```
 * Run the install script
 ```
